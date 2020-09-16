@@ -1,6 +1,10 @@
 ﻿using System;
 using System.IO;
-
+/* Programmer Brian Robison
+ * ISM 4300
+ * September 16 2020
+ * Program 2b
+ */
 namespace TechProj2b
 {
     class Program
